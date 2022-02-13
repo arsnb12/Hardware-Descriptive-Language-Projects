@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Dec 11 16:48:57 2020
+# Process ID: 2520
+# Current directory: C:/Users/Barli/Desktop/HDL Projects/project_3/project_3.runs/impl_1
+# Command line: vivado.exe -log FirstVGA.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source FirstVGA.tcl -notrace
+# Log file: C:/Users/Barli/Desktop/HDL Projects/project_3/project_3.runs/impl_1/FirstVGA.vdi
+# Journal file: C:/Users/Barli/Desktop/HDL Projects/project_3/project_3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source FirstVGA.tcl -notrace
