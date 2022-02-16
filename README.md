@@ -14,6 +14,10 @@ serial communications project using the Digilent Basys 3 FPGA board.
 
 **HDL project 2**:
 
+_The Purpose_: Gain familiarity with basic computer architecture and how it can be implemented using 
+Verilog.  Use  the  ARMv4  processor  as  an  example  computer  architecture  and  demonstrate  the 
+ability to adapt a moderately large hierarchal Verilog implementation of the ARM to include more 
+instructions, using the Digilent Basys 3 FPGA board.
 
 
 
