@@ -21,4 +21,12 @@ instructions, using the Digilent Basys 3 FPGA board.
 
 
 
+HDL project 3:
 
+
+_The purpose_: Demonstrate  competence  using  Verilog  and  Xilinx  Vivado  to  implement  a  timing-
+critical interfacing project using the Digilent Basys 3 FPGA board. You may collaborate regarding 
+source code and design concepts with other individuals (including online sources) regarding this 
+project; however, you must provide fair attribution to the source(s) of this material. In summary, 
+you must identify all contributors to your design by clear attribution in your code and your 
+written report. 
