@@ -1,5 +1,5 @@
 # Hardware-Descriptive-Language-Projects
-projects where Verilog is used 
+Projects where Verilog is used 
 
 **HDL Project 1**:
 
