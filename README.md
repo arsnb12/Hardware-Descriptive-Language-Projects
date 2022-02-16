@@ -21,7 +21,7 @@ instructions, using the Digilent Basys 3 FPGA board.
 
 
 
-HDL project 3:
+**HDL project 3**:
 
 
 _The purpose_: Demonstrate  competence  using  Verilog  and  Xilinx  Vivado  to  implement  a  timing-
