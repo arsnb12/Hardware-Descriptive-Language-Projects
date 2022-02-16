@@ -12,7 +12,7 @@ the purpose is to gain familiarity  with  using  Verilog  and  Xilinx  Vivado  t
 serial communications project using the Digilent Basys 3 FPGA board. 
 
 
-**HDL project 2**:
+**HDL Project 2**:
 
 _The Purpose_: Gain familiarity with basic computer architecture and how it can be implemented using 
 Verilog.  Use  the  ARMv4  processor  as  an  example  computer  architecture  and  demonstrate  the 
@@ -21,7 +21,7 @@ instructions, using the Digilent Basys 3 FPGA board.
 
 
 
-**HDL project 3**:
+**HDL Project 3**:
 
 
 _The purpose_: Demonstrate  competence  using  Verilog  and  Xilinx  Vivado  to  implement  a  timing-
